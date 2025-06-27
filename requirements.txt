@@ -1,0 +1,5 @@
+opencv-python==4.11.0.0
+mediapipe==0.10.9
+tensorflow-macos==2.16.0   # or tensorflow==2.16.0 on Linux/cloud
+numpy
+streamlit
