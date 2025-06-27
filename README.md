@@ -29,17 +29,7 @@ https://github.com/krushbiradar18/EmoDraw<br>
 
 ---
 
-## 📁 Folder Structure<br>
 
-EmoDraw/
-├── hand_draw.py              # Real-time drawing & prediction script
-├── train_emodraw_cnn.py      # CNN training script
-├── dataset/                  # Folder where labeled drawings are stored
-├── emodraw_cnn_model.h5      # Trained CNN model
-├── requirements.txt
-└── README.md
-
----
 
 ## ⚙️ Setup Instructions<br>
 
@@ -105,9 +95,9 @@ GitHub | LinkedIn
 ⸻
 
 💡 Future Ideas
-	•	Add gesture-based mode switching (no keyboard needed)
-	•	Integrate sound or emoji overlay for detected shapes
-	•	Deploy as a Streamlit or Gradio app
+• Add gesture-based mode switching (no keyboard needed)
+• Integrate sound or emoji overlay for detected shapes
+• Deploy as a Streamlit or Gradio app
 
 ⸻
 
